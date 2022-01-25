@@ -5,3 +5,10 @@
 /hello-wuffs-c/parse.c
 Cargo.lock
 target
+
+# RTC ignores
+# Premake generated files #
+###########################
+*.vcxproj*
+*.sln
+Makefile
